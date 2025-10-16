@@ -1,0 +1,4 @@
+br\com\etec\cinehas\CinehasApplication.class
+br\com\etec\cinehas\enums\GeneroEnum.class
+br\com\etec\cinehas\entity\Sala.class
+br\com\etec\cinehas\entity\Filme.class
