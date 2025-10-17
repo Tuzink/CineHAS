@@ -5,10 +5,10 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 //Artur Albion e Diogo Alves
-@Getter
-@Setter
-@Entity
-@Table(name = "TBL_PAGAMENTO")
+@ Getter
+@ Setter
+@ Entity
+@ Table(name = "TBL_PAGAMENTO")
 public class Pagamento {
     @Id
     @Column(name = "ID_PAGAMENTO")
