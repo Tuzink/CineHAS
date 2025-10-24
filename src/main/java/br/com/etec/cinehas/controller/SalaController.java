@@ -44,5 +44,16 @@ public class SalaController
         return null;
 
     }
+
+    @DeleteMapping({"/id"})
+    public void excluir(@PathVariable Integer id)
+    {
+        var sala = buscarPorId(id);
+        if (sala.isPresent())
+        {
+            repository.deleteById(id);
+        }
+    }
+
 }
 
