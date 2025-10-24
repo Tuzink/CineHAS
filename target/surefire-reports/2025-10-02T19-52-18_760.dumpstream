@@ -1,5 +1,0 @@
-# Created at 2025-10-02T19:52:18.929
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Pietro 2DS\pie\cinehas\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
